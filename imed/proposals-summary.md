@@ -16,11 +16,11 @@
 > * Would have more assessing strength / weaknesses / differences / similarities of proposal vis a vis the general field. Comparison with AET proposal can be secondary as AET OMIF (Open market information funds) proposal is intentionally "tbd" - ie. to be fleshed out.
 > * I'd especially reflect on the "political" strategy (explicit or implict) and its strengths and weaknesses e.g.
 >   * Who is it targeted at
->   * Who are the stakeholders on board 
+>   * Who are the stakeholders on board
 >
 > * Info on a project esp its timeline (which gives a sense of what has happened and where it is at) and a good assessment or its current status is very useful for us in planning and building collaborations
-> * We esp want to build a stakeholder mapping that includes names => any specific names we can find of people we should chat to is very valuable 
-> 
+> * We esp want to build a stakeholder mapping that includes names => any specific names we can find of people we should chat to is very valuable
+>
 > * Misc (v minor)
 >   * 2 space indenting (set at bottom of page - where you can also set spell check)
 >   * Spacing after headings, before and after lists etc
@@ -31,9 +31,19 @@
 
 > When you add links can you add a brief sentence giving a summary or indicating importance of reading. It would be especially useful here to know which is the *main* document to read. [name=Rufus Pollock]\
 
-New feedback 2017-12-14
+New feedback 2017-12-14 - from Rufus
 
+* Excellent work. These cover a wide range of proposals and give a good overview.
+* I'd do more citation of sources (maybe via footnotes) plus excerpting from actual proposals themselves. This might be more in a notes or fuller description section but could also be appropriate in summary esp if summary is all we have.
+* Not sure strengths / weaknesses section work so well - at same time I do find them useful. Still thinking about best approach here. One idea might be that rather than trying to evaluate it is probably better just to score against our overall criteria on mechanisms and on stuff like politics to have that separately (or not at all).
 
+Formatting / markdown:
+
+* space after headings
+* 2 space indents in bullets
+* **bold** not <u>underline</u> and avoid html like `<u>`
+* citations: shall we move to use citation references rather than hand typing out (it will also make it easier to manage)
+  * I have now written up the recommendations on this ...
 
 ## Health Impact Fund
 
@@ -53,7 +63,7 @@ The HIF team estimate that $6 billion would be a reasonable annual minimum level
 
 #### Strengths and weaknesses
 
-**Scope:** HIF covers all medicines and would remunerate all aspects of research leading to drug production. In practice however as the system is optional, it would particularly target diseases of the poor (where the health impact is likely to be greater than potential profit). 
+**Scope:** HIF covers all medicines and would remunerate all aspects of research leading to drug production. In practice however as the system is optional, it would particularly target diseases of the poor (where the health impact is likely to be greater than potential profit).
 
 > [name=Rufus Pollock] i'd avoid term "production" either say research or manufacturing to clearly distinguish (and if you mean both say both of them)
 
@@ -68,7 +78,7 @@ The HIF team estimate that $6 billion would be a reasonable annual minimum level
 > [name=Rufus Pollock] Why would it be expensive to run. We are talking about the mechanism here. And would it be more expensive than current monopoly patents system and in what ways?
 
 **Governability:** HIF would require extensive multinational governance, which would be difficult to implement. It also rests on the accurate measurement of health impact.
- 
+
 > [name=Rufus Pollock] can you give a bit of detail and why. I would also be a bit more cautious in wording on these ones e.g. HIF would require new international governance mechanisms. This could be difficult to implement though the implmentation model of international cooperation around R&D is already proven in the form of the international IP agreements.
 
 **Political Feasibility:** HIF functions alongside traditional IP. However as it is a comprehensive and multinational proposal, it might still be very hard to implement.
@@ -83,7 +93,7 @@ The HIF team estimate that $6 billion would be a reasonable annual minimum level
 * FRIND and the PDP+ Fund proposed creating a fund which remunerates innovators on the condition that they promote access to their drug.
 * The Cancer Innovation Fund is disease specific, unlike HIF, and would presumably be compulsory.
 * HIF is like a much farther-reaching MPP or patent pool: innovators volunteer to join a pool, but the condition of joining is much lower barriers to access.
-* The effect of HIF is similar to the effect of the Chagas and TB Prize Funds (drugs are available more cheaply and innovators are paid via a fund), only more generalised. Instead of winning only a prize, under HIF innovators win long-term remuneration rights, and instead of targeting one disease, HIF concerns medicines in general. 
+* The effect of HIF is similar to the effect of the Chagas and TB Prize Funds (drugs are available more cheaply and innovators are paid via a fund), only more generalised. Instead of winning only a prize, under HIF innovators win long-term remuneration rights, and instead of targeting one disease, HIF concerns medicines in general.
 
 #### Political strategy
 
@@ -103,6 +113,8 @@ The HIF team estimate that $6 billion would be a reasonable annual minimum level
 > a) Good question (btw: numbers info like this are really important so do note them) b) I imagine this is low because fund ends up just supporting neglected diseases and this is developed countries contribution [name=Rufus Pollock]
 
 #### Comparison of HIF book and Open this Book
+
+> I'd delete this section from the summary. However, I'd be interested to get more info from you on this. [name=Rufus Pollock]
 
 * HIF is more scholarly
   * > In what way? This is useful to understand [name=Rufus Pollock]
@@ -128,9 +140,9 @@ The HIF team estimate that $6 billion would be a reasonable annual minimum level
 * Status: Proposed (seeking funding to launch in 2017).
 
 ### Summary
-The 3P project is a project to increase the creation of and access to tuberculosis drugs. Specifically, it aims to create a one-month TB regimen which is affordable for everyone. 
+The 3P project is a project to increase the creation of and access to tuberculosis drugs. Specifically, it aims to create a one-month TB regimen which is affordable for everyone.
 
-The project seeks decouple the cost of R&D from the price of the ensuing treatement, through prizes, grants and the pooling of IP (pull, push, pool). 
+The project seeks decouple the cost of R&D from the price of the ensuing treatement, through prizes, grants and the pooling of IP (pull, push, pool).
 
 The precise mechanism envisaged is that companies will apply to the 3P Project for either a prize or a grant. They will then be asked to pool their data, and be considered firstly by a scientific committee and then a steering committee, which will decide whether to allocate the prize/grant. It also envisages creating a patent pool for the regimen created under the auspices of the project.
 
@@ -172,7 +184,7 @@ The 3P Project is run by a consortium of anti-TB organisations, led by the Inter
     * There are high risks and costs to testing multiple drugs and combination treatments.
   * Consequently, companies have focused on drugs rather than regimen.
   * There are also pipeline problems in progressing drugs to late-stage trials
-* This suggests that a proposal that incentivises the creation of non-commercially viable drugs might have a particularly strong effect on diseases which require multiple treatments, and on improving pipelines. 
+* This suggests that a proposal that incentivises the creation of non-commercially viable drugs might have a particularly strong effect on diseases which require multiple treatments, and on improving pipelines.
 
 ### Sources
 **The proposal:** “THE 3P PROJECT. Better TB Treatment. Faster,” 2016. https://www.msfaccess.org/sites/default/files/TB_briefing_3P-2016_EN.pdf.
@@ -190,9 +202,9 @@ The 3P Project is run by a consortium of anti-TB organisations, led by the Inter
 Grania Brigden, José Luis Castro, Lucica Ditiu, Glenda Gray, Debra Hanna, Marcus Low, Malebona Precious Matsoso, et al. “Tuberculosis and Antimicrobial Resistance – New Models of Research and Development Needed.” Bulletin of the World Health Organ 95 (2017): 317.
 
 ## The Medical Innovation Prize Fund
-* Start date: Proposed to - 
-    * the House of Representatives in H.R. 417 in 2005 
-    * the Senate in S.2210 in 2007 
+* Start date: Proposed to -
+    * the House of Representatives in H.R. 417 in 2005
+    * the Senate in S.2210 in 2007
     * the Senate in S. 1137 and S. 1138 in 2011
     * the Senate in S. 627 in 2013
     * the Senate in S. 495 in 2017
@@ -205,6 +217,7 @@ Grania Brigden, José Luis Castro, Lucica Ditiu, Glenda Gray, Debra Hanna, Marcu
 
 > I believe this is Jamie Love's work ;-) I think it is a continuation / similar to earlier stuff see https://blog.okfn.org/2004/10/30/the-medical-innovation-convention-a-new-global-framework-for-healthcare-research-and-development/ [name=Rufus Pollock]
 > As with a lot of Jamie's work, it's hard to find evidence that there is a link. I can find claims that the Medical Innovation Convention/MRDT was the originator. However, I can't find any confirmatory evidence. Unless I find some evidence of this, I'll just put that MIPF builds conceptually on MIC/MRDT, rather than stating that it is a direct continuation. [name=Rose Hadshar]
+> I had this comment more as a piece of info to you than something we include in the summary. I know for a fact this is Love's work but this is not something we need to (or should) mention. [name=Rufus Pollock]
 
 The Medical Innovation Prize Fund has been proposed in a series of acts by Senator Bernie Sanders in the US.
 
@@ -212,13 +225,19 @@ It is a comprehensive scheme designed to replace the patent system. It would est
 
 The funds would be spent on a combination of end product prizes, allocations of funds to priority research, open source dividend prizes and prizes for interim research. Drugs would be eligible for the fund for a period of 10 years. Where a drug formed the basis of a follow-on drug, it would receive an appropriate portion of the associated reward.
 
+> Can you go into a bit more detail here. E.g. what is an open source dividend? How are the funds allocated (Ah, i now see that below). I'd also recommend actually quoting from the proposal if needed. NB: this may be material for the notes rather than summary. If so, may be worth on key points like this to mention that further details are below. [name=Rufus Pollock]
+
 The system would be administered by a board of trustees and six expert advisory boards. There would also be a system of competitive intermediaries, who would compete for funding and allocate some of the rewards. Funds would come from the treasury at the rate of 0.55% GDP annually.
 
 ### Notes
+
 #### Details
+
 * Sponsors of the fund claim that it is TRIPS compliant.
+  * > Where is this claimed - could you footnote or link [name=Rufus Pollock]
 * S. 1138 in 2011 was an act proposing a fund for HIV/AIDS specifically (so no HIV/AIDS drugs could be patented).
 * The sponsors of the 2011 act estimated that the scheme would reduce the cost of drugs in the US by more than $250 billion.
+  * > Again can you cite in a footnote the source for this. [name=Rufus Pollock]
 * The six expert advisory boards would be for:
     * Economic evaluation of therapeutic benefits.
     * Business models and incentive structures for innovation.
@@ -232,6 +251,7 @@ The system would be administered by a board of trustees and six expert advisory 
     * 10% for orphan drugs (via funding of prior research)
     * 4% for global infectious diseases and other global health priorities (via funding of prior research)
 * The acts all ended up being referred to committees.
+  > do we know what happened in committee? [name=Rufus Pollock]
 * The acts are not specific on what adjudicatory mechanisms there would be in the case of litigation relating to the fund.
 * To evaluate remuneration levels, MIPF proposes using:
     * the number of patients affected
@@ -243,9 +263,14 @@ The system would be administered by a board of trustees and six expert advisory 
         * severe illnesses with small client populations
         * neglected diseases primarily affecting the poor
     * improved efficiency of manufacturing processes
-    * extent of openness 
+    * extent of openness
+
+> Below you indicate that this proposal is oriented around health impact. Can you add a bullet about this with some detail and actual cites from the act. [name=Rufus Pollock]
+
+> You also mention that openness is a criterion along with QALYs. Again can you quote and ref relevant sections. Note also that our proposal (and i believe HIF) *require* openness so you could say it was a criterion - just a compulsory one. [name=Rufus Pollock]
 
 #### Strengths and Weaknesses
+
 <u>Scope:</u> MIPF would cover all disease areas and all R&D within the US.
 
 <u>Access:</u> MIPF would lower the cost of drugs and incentivise distribution, as remuneration would be based on health impact.
@@ -259,6 +284,9 @@ The system would be administered by a board of trustees and six expert advisory 
 <u>Political Feasibility:</u> It is not clear whether this would be TRIPS compliant. As it is comprehensive and compulsory, it would be hard to implement.
 
 #### Relation to other proposals
+
+> 2 space indent for bullets please ;-) [name=Rufus Pollock]
+
 * MIPF is similar to MIC/MRDT. These proposals envisaged a comprehensive prize system funded by government. Differences are:
     * MRDT would be international, MIPF national.
     * MRDT focused on funding levels or input, rather than health impact or output.
@@ -284,13 +312,23 @@ The system would be administered by a board of trustees and six expert advisory 
 **The main document:** “The Medical Innovation Prize Fund: A New Paradigm for Supporting Sustainable Innovation and Access to New Drugs: De-Linking Markets for Products from Markets for Innovation,” 2011. https://www.keionline.org/sites/default/files/big_prize_fund_overview_26may2011_letter.pdf.
 
 **General information:**
+
 Hollis, Adrian, and Thomas Pogge. The Health Impact Fund: Making New Medicines Accessible for All. Incentives for Global Health, 2008. http://healthimpactfund.org/wp-content/uploads/2015/12/hif_book.pdf.
+
+> Why cite HIF again here? [name=Rufus Pollock]
 
 Wei, Marlynn. “Should Prizes Replace Patents - A Critique of the Medical Innovation Prize Act of 2005.” Boston University Journal of Science & Technology Law 13 (2007): 25.
 
+> Why this article? Is it useful? I think we probably want an annotated bibliography somewhere for these items. [name=Rufus Pollock]
+
 “Prizes as an Alternative to Patents.” Wikipedia, June 14, 2017. https://en.wikipedia.org/w/index.php?title=Prizes_as_an_alternative_to_patents&oldid=785616933.
 
+> how good is this article? [name=Rufus Pollock]
+
 **The laws:**
+
+> This is an example of why we probably want Zotero and use citations here rather than writing out in full in a particular citation style. [name=Rufus Pollock]
+
 Sanders, Bernard. “Text - H.R.417 - 109th Congress (2005-2006): Medical Innovation Prize Act of 2005.” Webpage, 2005. https://www.congress.gov/bill/109th-congress/house-bill/417/text.
 
 ———. “Text - S.495 - 115th Congress (2017-2018): Medical Innovation Prize Fund Act.” Webpage, 2017. https://www.congress.gov/bill/115th-congress/senate-bill/495/text.
@@ -306,6 +344,7 @@ Sanders, Bernard. “Text - H.R.417 - 109th Congress (2005-2006): Medical Innova
 **Sanders 2005 speech:** “Congressional Record.” Legislation. Accessed June 25, 2017. https://www.congress.gov/congressional-record/2005/2/2/extensions-of-remarks-section/article/E149-3.
 
 ## Advanced Market Commitment for Pneumococcal Vaccines
+
 * Start date: Launched in 2007.
 * Description: A scheme where donors precomit to subsidise the price of pneumococcal vaccines on development.
 * Status: Operational.
@@ -317,9 +356,15 @@ Under the scheme, donors commit funds to guarantee the price of vaccines once th
 
 Donor countries and philanthropies make grants to the World Bank, which disburses money to GAVI. GAVI passes this money on to manufacturers who have passed the application process and have won a supply agreement.
 
+> I think this is a case where the summary needs some extension and rewriting e.g.
+> * Under the scheme => is this AMCs or this specific AMC. I assume former i.e. you mean "Under an AMC schema, donoros ..."
+> * What is GAVI? Suddenly comes up in 3rd paragraph
+> * What are pneumococcal vaccines. In general I think some context (or even separate section in summary) on the health issue would be useful (not only here but e.g. around TB for 3P). I could even imagine these could be separated and form part of the "broader view of the health landscape" and then we ref from relevant proposals. [name=Rufus Pollock]
+
 ### Notes
 #### Details
 * In 2005 the CGD published a report on AMCs.
+  * > CGD = ??. BTW I think we want a simple glossary / acronym DB! [name=Rufus Pollock]
 * In 2006 the G8 launched a consultative process for a pilot.
 * In 2007 a pilot was launched with Gates Foundation money.
 * In 2009 the pneumococcal vaccine AMC became operational.
@@ -330,6 +375,7 @@ Donor countries and philanthropies make grants to the World Bank, which disburse
     * Supply shortages were rectified more quickly because of the AMC
 
 #### Strengths and Weaknesses
+
 <u>Scope:</u> AMCs are disease specific. The pneumococcal AMC targeted late-stage development. In theory an AMC could be run for basic research, but this has not been proven.
 
 <u>Access:</u> The cost of the drug is reduced through AMCs. They also incentivise distribution via donors' commitments to purchase and distribute drugs.
@@ -343,10 +389,11 @@ Donor countries and philanthropies make grants to the World Bank, which disburse
 <u>Political Feasibility:</u> AMCs are attractive to industry and to beneficiaries, as they maintain IP while increasing access.
 
 #### Relation to other proposals
+
 * The pneumococcal vaccine AMC is a kind of AMC or APC.
 * GAVI manages the pneumococcal AMC.
 * The US Project BioShield, which aims to reduce the risk of bioterrorism, created a fund to be spent on vaccines and other drugs for the national stockpile. Although not a formal AMC commitment, this acts as a similar kind of incentive.
-* An AMC is a similar mechanism to a prize. Unlike most prizes, AMCs do solve the distribution problem, through donors' commitment to purchase and then distribute drugs. 
+* An AMC is a similar mechanism to a prize. Unlike most prizes, AMCs do solve the distribution problem, through donors' commitment to purchase and then distribute drugs.
     * The Chagas and TB Prizes would also solve the distribution problem by making the prize conditional on health impact and market presence.
 
 #### Political strategy
@@ -355,7 +402,7 @@ Donor countries and philanthropies make grants to the World Bank, which disburse
     * Philanthropists
     * Drugs companies
 * Stakeholders on board:
-    * GAVI 
+    * GAVI
     * UNICEF
     * WHO
     * CGD
@@ -392,6 +439,8 @@ Farlow, Andrew W.K., Donald W. Light, Richard T. Mahoney, and Roy Widdus. “Con
 
 Hollis, Adrian. “A Comprehensive Advance Market Commitment.” Submission to the World Health Organization Public Health, Innovation and Intellectual Property Intergovernmental Working Group, 2007. http://www.who.int/phi/public_hearings/second/contributions_section2/Section2_Aidan_Hollis_Full_Contribution.pdf.
 
+> Is this *Adrian* or Aidan Hollis? [name=Rufus Pollock]
+
 “Is the Price Right? Evaluating Advanced Market Commitments for Vaccines.” Center For Global Development. Accessed June 26, 2017. https://www.cgdev.org/blog/price-right-evaluating-advanced-market-commitments-vaccines.
 
 Kremer, Michael. Strong Medicine: Creating Incentives for Pharmaceutical Research on Neglected Diseases. Princeton, NJ ; Oxford: Princeton University Press, 2004.
@@ -399,6 +448,7 @@ Kremer, Michael. Strong Medicine: Creating Incentives for Pharmaceutical Researc
 Towse, Adrian, and Hannah Kettler. “Advance Price or Purchase Commitments to Create Markets for Treatments for Diseases of Poverty: Lessons from Three Policies.” World Health Organization. Bulletin of the World Health Organization 83, no. 4 (2005): 301–7. doi:10.1590/S0042-96862005000400015.
 
 ## Priority Review Vouchers
+
 * Start date: Proposed in 2006, launched in 2007.
 * Description: A US scheme where companies who create neglected drugs are given a voucher for use on another drug which will expedite the FDA review process.
 * Status: Operational.
@@ -416,7 +466,7 @@ The estimated value of a voucher is $100-300 million.
 #### Strengths and Weaknesses
 <u>Scope:</u> PRVs in the US apply to neglected diseases and rare paediatric diseases. They relate to final products.
 
-<u>Access:</u> There is no impact on the price of drugs. PRVs do not incentivise distribution. 
+<u>Access:</u> There is no impact on the price of drugs. PRVs do not incentivise distribution.
 
 <u>Innovation:</u> Incentives are not linked to health impact. The reward of PRVs is such that it is unlikely to incentivise full-blown ND research. It is more likely that they speed up ND research that would have happened anyway.
 
@@ -424,7 +474,7 @@ The estimated value of a voucher is $100-300 million.
 
 <u>Governability:</u> The PRV system uses existing FDA administration, so is relatively light of governance. It requires specification of which drugs count as neglected, but from that point on is relatively straightforward to administer.
 
-<u>Political Feasibility:</u> PRVs are patent compatible, and have been successfully implemented. 
+<u>Political Feasibility:</u> PRVs are patent compatible, and have been successfully implemented.
 
 #### Relation to other proposals
 * A PRV is a kind of Transferable Fast Track (TFT).
@@ -449,6 +499,9 @@ The estimated value of a voucher is $100-300 million.
 **Regulatory information page:** Commissioner, Office of the. “Food and Drug Administration Amendments Act (FDAAA) of 2007.” WebContent. Accessed June 26, 2017. https://www.fda.gov/RegulatoryInformation/LawsEnforcedbyFDA/SignificantAmendmentstotheFDCAct/FoodandDrugAdministrationAmendmentsActof2007/default.htm.
 
 **Reviews:**
+
+> As per previous comments it would be useful to have a short summary of what these say (at least the mort important ones) [name=Rufus Pollock]
+
 Commissioner, Office of the. “Food and Drug Administration Amendments Act (FDAAA) of 2007 - FDAAA Implementation - Highlights Two Years After Enactment.” WebContent. Accessed June 26, 2017. https://www.fda.gov/RegulatoryInformation/LawsEnforcedbyFDA/SignificantAmendmentstotheFDCAct/FoodandDrugAdministrationAmendmentsActof2007/ucm184271.htm.
 
 International AIDS Vaccine Initiative. “The FDA Priority Review Vouchers: An Effective Incentive to Develop Drugs and Vaccines for Neglected Diseases?,” 2008. https://www.wcl.american.edu/pijip/go/innovation-litsurvey.
@@ -465,13 +518,13 @@ Robertson, Andrew S., Rianna Stefanakis, Don Joseph, and Melinda Moree. “The I
 
 **General information on TFTs:** Gans, Joshua S., and David B. Ridley. “Innovation Incentives under Transferable Fast-Track Regulatory Review.” The Journal of Industrial Economics 61, no. 3 (September 1, 2013): 789–816. doi:10.1111/joie.12026.
 
-**General information on PRVs:** 
+**General information on PRVs:**
 “Food and Drug Administration Amendments Act of 2007.” Wikipedia, March 22, 2017. https://en.wikipedia.org/w/index.php?title=Food_and_Drug_Administration_Amendments_Act_of_2007&oldid=771604264.
 
 “Priority Review (FDA).” Wikipedia, June 23, 2017. https://en.wikipedia.org/w/index.php?title=Priority_review_(FDA)&oldid=787105010.
 “Priorityreviewvoucher.org.” Accessed June 26, 2017. http://priorityreviewvoucher.org/.
 
-**News:** 
+**News:**
 “Priority Review Voucher Fees to Decline in FY 2017 | RAPS.” Accessed June 26, 2017. http://www.raps.org/Regulatory-Focus/News/2016/09/29/25926/Priority-Review-Voucher-Fees-to-Decline-in-FY-2017/.
 
 “What Happened to the Value of Priority Review Vouchers (PRV)?” Locust Walk, March 2, 2017. http://www.locustwalk.com/what-happened-to-the-value-of-priority-review-vouchers-prv/.
@@ -482,12 +535,15 @@ Robertson, Andrew S., Rianna Stefanakis, Don Joseph, and Melinda Moree. “The I
 **A European proposal:** Ridley, David B, and Alfonso Calles Sánchez. “Introduction of European Priority Review Vouchers to Encourage Development of New Medicines for Neglected Diseases.” The Lancet 376, no. 9744 (September 11, 2010): 922–27. doi:10.1016/S0140-6736(10)60669-1.
 
 ## GAVI Alliance
+
 * Start date: Launched in 2000.
 * Description: A PDP focused on vaccines for children, which pools the demand of poorer countries and is financed partly through donor funding and partly through recipient country contributions.
 * Status: Operational.
 
 ### Summary
 GAVI is a public private partnership for the procurement and distribution of vaccines. It pools donor funds, money raised by IFFIm via donor-backed bonds, and developing country contributions, and then uses this money to purchase and deliver vaccines.
+
+> IFFIm? [name=Rufus Pollock]
 
 GAVI represents over 60 developing countries, and acts to pool their demand and represent this to drugs companies. This incentivises drugs companies to develop vaccines. GAVI then funds the purchase and delivery of these vaccines by developing country actors.
 
@@ -501,7 +557,7 @@ GAVI represents over 60 developing countries, and acts to pool their demand and 
 
 <u>Efficiency:</u> GAVI is funded by donors and by money raised on the capital markets, and so is fairly efficient. GAVI does not have in-country staff or manage the delivery of vaccines itself. This makes it more cost-effective as it avoids duplication.
 
-<u>Governability:</u> GAVI requires a governance system to prioritise between vaccines. 
+<u>Governability:</u> GAVI requires a governance system to prioritise between vaccines.
 
 <u>Political Feasibility:</u> GAVI has wide political support.
 
@@ -509,8 +565,9 @@ GAVI represents over 60 developing countries, and acts to pool their demand and 
 * GAVI is partly funded through the IFFIm. This sells donor-backed bonds on the capital market to raise money for GAVI. Other sources of funding are direct matching by DFID and the Gates foundation, developing country contributions, and other direct funding.
 * Alongside the IFFim, there are a number of other proposals which involve donor-backed bond funding.
     * The PDF-FF proposes a donor-backed bond funding system for PDPs. It is more comprehensive than IFFIm, as it would include the selection of which PDPs to fund, whereas the IFFIm simply channels all money to GAVI.
+      * > What is PDF-FF? [name=Rufus Pollock]
     * The IRFF - Industry R&D Facilitation Fund is similar to the PDF-FF. It would commit to reimbursing a certain proportion of the expenses of PDPs (say 80%) using bond-backed financing.
-* GAVI is partialy funded through contributions from developing countries. This is similar to FRIND’s funding model of contributions from countries without the capacity for portfolio management.
+* GAVI is partially funded through contributions from developing countries. This is similar to FRIND’s funding model of contributions from countries without the capacity for portfolio management.
 * PDPs tend to be fairly composite in approach. This is true of GAVI, which operates the pneumoccocal AMC as well as providing a more general incentive to vaccine developers, through directly purchasing vaccines.
 * Traditional PDPs tend to fund research directly, unlike GAVI. This makes them especially good at funding basic research, and popular with researchers. It also means they are less efficient, as unsuccessful research is funded and they do not provide incentives to research cost-effectively. Moreover, the discoveries made through PDPs are then often patented, such that the public pays twice.
 * Other examples of PDPs include  ANDI, IMI - Innovative Medicines Initiative, Lygature, PATH, TI Pharma, 2004 agreement between the International Partnership for Microbicides and Tibotec Pharmaceuticals, a Belgian subsidiary of pharmaceutical company Johnson & Johnson, to develop a microbicide to protect women from infection with HIV, Meningitis Vaccine Project, Aeras Global TB Vaccine Foundation, CD4 Initiative, Drugs for Neglected Diseases Initiative, DVI - Dengue Vaccine Initiative, EVI - European Vaccine Initiative, FIND - Foundation for Innovative New Diagnostics, GDAC - Global Dengue & Aedes-Transmitted Diseases Consortium, Human Hookworm Vaccine Initiative, IAVI - International AIDS Vaccine Initiative, IDRI - Infectious Disease Research Institute, International Partnership for Microbicides, iOWH - Institute for One World Health, IVCC, IVI - International Vaccine Institute, Malaria Vaccine Initiative, MMV - Medicines for Malaria Venture, PDVI - Pediatric Dengue Vaccine Initiative, TB Alliance, TBVI - TB Vaccine Initiative, and the WHO’s Tropical Disease Research.
@@ -532,7 +589,7 @@ GAVI represents over 60 developing countries, and acts to pool their demand and 
 
 **WHO factsheet:** “GAVI Alliance Factsheet,” n.d. http://www.who.int/phi/documents/gavi_alliance.pdf.
 
-**More GAVI information:** 
+**More GAVI information:**
 “Gavi’s Business Model.” Accessed July 10, 2017. http://www.gavi.org/about/gavis-business-model/.
 
 “WHO | Follow-up of the Report of the Consultative Expert Working Group on Research and Development:” Accessed July 10, 2017. http://www.who.int/phi/documents/CEWG-WP/en/.
@@ -552,7 +609,7 @@ FRIND is a pooled fund proposed by Novartis to fund late-stage research into neg
 
 Initially the fund would focus on attracting funds from governments without the capacity for portfolio management. This is meant to enable smaller donors to direct their funds to the most promising opportunities.
 
-The fund would use portfolio management techniques to select the most promising compounds with the help of a scientific advisory committee. 
+The fund would use portfolio management techniques to select the most promising compounds with the help of a scientific advisory committee.
 
 Applicants to the pool would have to ensure that drugs developed using FRIND funding were affordable. FRIND proposed a possible mechanism whereby exclusive licensing rights would be granted to FRIND itself, which would thereby create a kind of ND patent pool.
 
@@ -575,7 +632,7 @@ In the original proposal, FRIND was envisaged as becoming the dominant funder of
 
 #### Relation to other proposals
 * The PDP+ Fund is the most similar to the FRIND proposal, except that it would only be used to fund PDPs.
-* The 3P Project and FRIND share the idea of raising funds which are disbursed for the late-stage creation of neglected drugs on condition of affordability. The 3P Project has a more composite mechanism and a more targeted disease area than FRIND. 
+* The 3P Project and FRIND share the idea of raising funds which are disbursed for the late-stage creation of neglected drugs on condition of affordability. The 3P Project has a more composite mechanism and a more targeted disease area than FRIND.
 * If FRIND were implemented with exclusive licensing to FRIND itself, it would become a patent pool as well as a fund, like the MPP, the 3P Project, and the Chagas and TB Prizes (see also The Pool for Open Innovation against Neglected Tropical Diseases and the Essential Patent Pool for AIDS).
 * Other pooled funding mechanisms (on a much larger scale) are MRDT, the global framework, the Australian Democrats Prize Proposal and HIF.
 * FRIND is a fund which awards grants conditional on some commitment to access. HIF and MIPF are similar, but rather than awarding funds conditionally in advance, they award remuneration retrospectively based on health impact (which has an obvious relation to access). HIF and MIPF are both comprehensive proposals, rather than focusing on a NDs. The Australian Democrats Prize Proposal is similar to HIF and MIPF in these respects.
@@ -595,8 +652,8 @@ In the original proposal, FRIND was envisaged as becoming the dominant funder of
 
 **CEWG submission:** “FUND FOR RESEARCH AND DEVELOPMENT IN NEGLECTED DISEASES.” CEWG submission, 2011. http://www.who.int/phi/news/phi_20_cewg_frind_en.pdf.
 
-**General information:** 
-Cheri Grace, Mark Pearson, and Janis Lazdins. 
+**General information:**
+Cheri Grace, Mark Pearson, and Janis Lazdins.
 “Pooled Funds: Assessing New Models for Financing Global Health R&D.” CENTER FOR GLOBAL HEALTH R&D POLICY ASSESSMENT, 2011. http://www.resultsfordevelopment.org/sites/resultsfordevelopment.org/files/Pooled%20Funding%20Technical%20Background%20Paper.pdf.
 
 “Research and Development to Meet Health Needs in Developing Countries: Strengthening Global Financing and Coordination.” Report of the Consultative Expert Working Group on Research and Development: Financing and Coordination. World Health Organisation, 2012. http://apps.who.int/iris/bitstream/10665/254706/1/9789241503457-eng.pdf?ua=1.
@@ -699,8 +756,10 @@ The UNITAID model was submitted to the EWG in 2008, and the MPP was launched in 
 
 KPMG estimated that between 2012 and 2016, the MPP saved $312 million in treatment costs. In 2016, the MPP's total income was around $6.5m.
 
+> How did they estimate these numbers? Worth a quick check. These numbers are incredibly useful as they start giving us numbers to use for the estimate of open approaches globally - esp if we go from simple money to lives saved (and to do that we need detail of KPMG estimates) [name=Rufus Pollock]
+
 #### Strengths and Weaknesses
-<u>Scope:</u> The MPP targets TB, HIV/AIDS and HepC. It affects only the licensing stage of research rather than the funding of research itself (though licensing in turn affects manufacture and some late-stage development). 
+<u>Scope:</u> The MPP targets TB, HIV/AIDS and HepC. It affects only the licensing stage of research rather than the funding of research itself (though licensing in turn affects manufacture and some late-stage development).
 
 <u>Access:</u> By making it easier for generics to obtain licenses, and therefore increasing competition, the MPP reduces the price of the drugs in its pool. It does not incentivise distribution.
 
@@ -752,7 +811,10 @@ Pool, Medicines Patent. Progress and Achievements of the Medicines Patent Pool 2
 
 UNITAID. “The HIV/AIDS Medicines Patent Pool Initiative Overview,” n.d. http://www.who.int/hiv/amds/unitaid_patent_pool_initiative.pdf.
 
-**On patent pools:** 
+**On patent pools:**
+
+> We need to be careful. In econ literature a patent pool is similar but quite differnt from what the MPP is doing (patent pools are about hold-up probelms when there are multiple complementary patents which are all needed whereas MPP more about price discrimination and bulk buying)
+
 Jeanne Clark, Joe Piccolo, Brian Stanton, and Karin Tyson. “PATENT POOLS: A SOLUTION TO THE PROBLEM OF ACCESS IN BIOTECHNOLOGY PATENTS?” United States Patent and Trademark Office, 2000. https://www.uspto.gov/web/offices/pac/dapp/opla/patentpool.pdf.
 
 Sukkar, Elizabeth. “Patent Pools: An Idea Whose Time Has Come.” BMJ 338 (2009): b1630. doi:10.1136/bmj.b1630.
@@ -793,9 +855,9 @@ Before 1983, only 10 orphan drugs were made. From then until 2014, over 200 were
 #### Relation to other proposals
 * Other ODAs have been implemented by the EU, Japan, Australia and Singapore.
 * The ODA includes tax credits. The Vaccines Research Relief programme in the UK also offered tax credits on R&D expenditure towards vaccines in neglected areas.
-* The ODA primarily functions through extended market exclusivity. Another way of using market exclusivity to incentivise particular behaviours is Transferrable Intellectual Property Rights (TIPR), where exclusivity is granted on a drug of choice in exchange for the creation of a neglected drug. 
+* The ODA primarily functions through extended market exclusivity. Another way of using market exclusivity to incentivise particular behaviours is Transferrable Intellectual Property Rights (TIPR), where exclusivity is granted on a drug of choice in exchange for the creation of a neglected drug.
 * In 1997, under the Modernisation Act, the US introduced the Paediatric incentive scheme. This is very similar to ODA: it grants market exclusivity on drugs for adult consumption in exchange for trailing the drug on children. Rather than incentivising the creation of drugs, the paediatric incentive actually functions to incentivise drugs trials.
-  
+
 #### Political strategy
 * Targeted at:
     * Pharmaceutical companies
@@ -853,7 +915,7 @@ The Chagas Disease Prize Fund was a proposal to the WHO made in 2009 by Banglade
 
 The proposal envisaged three kinds of prize to be awarded by the fund:
 * Chagas Disease Product Prizes (CDPP)
-    * These would be awarded to qualifying products which entered developing markets and made a health impact. 
+    * These would be awarded to qualifying products which entered developing markets and made a health impact.
     * Where multiple products qualified, the money would be distributed according to health impact.
 * Technology Challenge Prizes
 * Best Contribution Prizes
@@ -906,7 +968,7 @@ In 2008 an earlier similar proposal was made by Barbados and Bolivia to the IGWG
 
 ## Prize4Life
 
-* Start date: Launched in 2006. 
+* Start date: Launched in 2006.
 * Description: A prize fund for ALS treatment.
 * Status: Operational.
 
@@ -933,11 +995,11 @@ Prize4Life prizes are brokered through the prize network InnoCentive.
 
 <u>Governability:</u> Prize4Life is run by a scientific advisory committee. This seems to be feasible. The chief difficulties with this kind of model are the selection of criteria which are neither too narrow nor too broad, and the setting of the prize amount.
 
-<u>Political Feasibility:</u> Prizes of this sort are highly feasible, provided that the funding can be ammassed. Prize4Life do not specify the source of their funding.
+<u>Political Feasibility:</u> Prizes of this sort are highly feasible, provided that the funding can be amassed. Prize4Life do not specify the source of their funding.
 
 #### Relation to other proposals
 * Prize4Life is a fairly traditional prize fund, where the receipt of the prize once particular medical criteria have been met is unconditional (see Armand Hammer Cancer Prize, Hideyo Noguchi Africa Prize, Gotham Prize for Cancer Research, The Kochon Prize). This is also true of the Archon Genomics X-Prize.
-* More demanding prize models like the TB Prize, the Chagas Prize and the Donor Prize Fund make some form of increased access or distribution a condition of receiving the prize. 
+* More demanding prize models like the TB Prize, the Chagas Prize and the Donor Prize Fund make some form of increased access or distribution a condition of receiving the prize.
 
 #### Political strategy
 * Targeted at:
@@ -961,6 +1023,8 @@ Prize4Life prizes are brokered through the prize network InnoCentive.
 The Archon Genomics X-Prize was launched in 2006 with a $10m prize pot. The prize was to be given to the first team that could sequence 100  human genomes for $10,000 or less per genome.
 
 In 2013 the prize was cancelled, as independently of the prize, genome sequencing technology was getting faster and cheaper. The prize was thus deemed not to be incentivising the innovation it had set out to, and was cancelled.
+
+> A little more detail here would be interesting. What was the state of sequencing when it was cancelled (was anyone close to winning) [name=Rufus Pollock]
 
 ### Notes
 #### Strengths and weaknesses
@@ -998,9 +1062,12 @@ In 2013 the prize was cancelled, as independently of the prize, genome sequencin
 **Summary:** “SELECTED INNOVATION PRIZES AND REWARD PROGRAMS.” KEI Research Note. Knowledge Ecology International, 2008. https://www.keionline.org/misc-docs/research_notes/kei_rn_2008_1.pdf.
 
 ## [GHIF - Global Health Investment Fund]
+
 * Start date: Launched in 2013.
 * Description: A $108 million social impact investment fund designed to provide financing to advance the development of drugs, vaccines, diagnostics and other interventions against diseases that disproportionately burden low- and middle-income countries.
 * Status: Operational.
+
+> This is a classic impact investment fund if i understand correctly [name=Rufus Pollock]
 
 ### Summary
 GHIF is an investment fund which finances high potential impact medical R&D opportunities. In practice this means medical innovations that target diseases of the developing world. Potential losses to investors are underwritten by the Gates Foundation and the Swedish International Development Cooperation Agency.
@@ -1011,6 +1078,9 @@ GHIF is an investment fund which finances high potential impact medical R&D oppo
 <u>Access:</u> GHIF has no bearing on the price or distribution of drugs.
 <u>Innovation:</u> Incentives are linked to potential impact, and so are partially linked to health impact itself.
 <u>Efficiency:</u> GHIF is a market-based funding mechanism.
+
+> What does market-based mean here? I wonder if we need to get more precise somehow. [name=Rufus Pollock]
+
 <u>Governability:</u> GHIF does not require a particularly complex governance structure. It is subject to the problem of selection.
 <u>Political Feasibility:</u> GHIF is supported by a range of governments and funders, and has the potential to attract funding that would otherwise not have been available.
 
@@ -1032,7 +1102,7 @@ GHIF is an investment fund which finances high potential impact medical R&D oppo
     * BMZ
     * AXA
     * Storebrand
-    * IFC 
+    * IFC
     * the Children’s Investment Fund Foundation
     * the Swedish International Development Cooperation Agency
 
@@ -1070,9 +1140,9 @@ GHIF is an investment fund which finances high potential impact medical R&D oppo
 
 ## [TEMPLATE] Name
 
-* Start date: 
-* Description: 
-* Status: 
+* Start date:
+* Description:
+* Status:
 
 ### Summary
 
